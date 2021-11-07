@@ -1,0 +1,28 @@
+JIA-2
+How to:
+
+Description: You player, are commander (player name) traversing space in your ship seeking stars for your collection. (add more details) But make sure you hurry up because once the timer runs out you're done for. 
+*Warning some stars may have strange affects on your ship*
+
+Controls:
+Up arrow / W: Move Up
+Down Arrow / S: Move Down
+Left Arrow / A: Move Left
+Right Arrow / D : Move Right
+	
+Star affects:
+Red: Death
+Purple: inverted controls
+Green: time boost
+(more affects)
+
+
+What you need to play: 
+ (don't know what word is) Needed : 
+Python
+Pygame
+(something else)
+
+What to know about developers: 
+We are a team of 4 comprised of 1 college freshman a veteran hacker and 3 highschool seniors (1 vet, and 2 noobs). We choose to do a game for this event under the inspiration of doing something fun, and we choose the space theme after being inspired by Space forces challenge in this competition. 
+
